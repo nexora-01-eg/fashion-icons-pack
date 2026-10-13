@@ -1,0 +1,182 @@
+[
+ {
+  "concept": "dress",
+  "code": "X-ICN-9430",
+  "name": "dress-light.svg"
+ },
+ {
+  "concept": "handbag",
+  "code": "X-ICN-13157",
+  "name": "handbag-thin.svg"
+ },
+ {
+  "concept": "handbag-soft",
+  "code": "X-ICN-13153",
+  "name": "handbag-simple-thin.svg"
+ },
+ {
+  "concept": "high-heel",
+  "code": "X-ICN-13621",
+  "name": "high-heel-thin.svg"
+ },
+ {
+  "concept": "perfume",
+  "code": "X-ICN-18573",
+  "name": "perfume.svg"
+ },
+ {
+  "concept": "mirror-round",
+  "code": "X-ICN-16461",
+  "name": "mirror-round.svg"
+ },
+ {
+  "concept": "mirror-rect",
+  "code": "X-ICN-16460",
+  "name": "mirror-rectangular.svg"
+ },
+ {
+  "concept": "skirt",
+  "code": "X-ICN-21703",
+  "name": "skirt.svg"
+ },
+ {
+  "concept": "crown",
+  "code": "X-ICN-8119",
+  "name": "crown-light.svg"
+ },
+ {
+  "concept": "diamond",
+  "code": "X-ICN-8985",
+  "name": "diamond-thin.svg"
+ },
+ {
+  "concept": "gem",
+  "code": "X-ICN-12114",
+  "name": "gem.svg"
+ },
+ {
+  "concept": "flower",
+  "code": "X-ICN-11497",
+  "name": "flower-thin.svg"
+ },
+ {
+  "concept": "lotus",
+  "code": "X-ICN-11488",
+  "name": "flower-lotus-thin.svg"
+ },
+ {
+  "concept": "tulip",
+  "code": "X-ICN-11507",
+  "name": "flower-tulip-thin.svg"
+ },
+ {
+  "concept": "rose",
+  "code": "X-ICN-11495",
+  "name": "flower-rose-single.svg"
+ },
+ {
+  "concept": "gift",
+  "code": "X-ICN-12252",
+  "name": "gift-thin.svg"
+ },
+ {
+  "concept": "gift-card",
+  "code": "X-ICN-12243",
+  "name": "gift-card.svg"
+ },
+ {
+  "concept": "sunglasses",
+  "code": "X-ICN-23432",
+  "name": "sunglasses-thin.svg"
+ },
+ {
+  "concept": "glasses",
+  "code": "X-ICN-10075",
+  "name": "eyeglasses-thin.svg"
+ },
+ {
+  "concept": "wallet",
+  "code": "X-ICN-25955",
+  "name": "wallet-thin.svg"
+ },
+ {
+  "concept": "shopping-bag",
+  "code": "X-ICN-21345",
+  "name": "shopping-bag-open-thin.svg"
+ },
+ {
+  "concept": "shopping-cart",
+  "code": "X-ICN-21394",
+  "name": "shopping-cart-simple-thin.svg"
+ },
+ {
+  "concept": "scissors",
+  "code": "X-ICN-20702",
+  "name": "scissors-thin.svg"
+ },
+ {
+  "concept": "hanger",
+  "code": "X-ICN-7345",
+  "name": "coat-hanger-thin.svg"
+ },
+ {
+  "concept": "shoe",
+  "code": "X-ICN-21310",
+  "name": "shoe.svg"
+ },
+ {
+  "concept": "spray",
+  "code": "X-ICN-22423",
+  "name": "spray-bottle-thin.svg"
+ },
+ {
+  "concept": "scarf",
+  "code": "X-ICN-20682",
+  "name": "scarf.svg"
+ },
+ {
+  "concept": "tote",
+  "code": "X-ICN-24629",
+  "name": "tote-light.svg"
+ },
+ {
+  "concept": "boot",
+  "code": "X-ICN-3633",
+  "name": "boot-light.svg"
+ },
+ {
+  "concept": "ribbon",
+  "code": "X-ICN-20341",
+  "name": "ribbon.svg"
+ },
+ {
+  "concept": "bow",
+  "code": "X-ICN-3707",
+  "name": "bow.svg"
+ },
+ {
+  "concept": "heart",
+  "code": "X-ICN-13442",
+  "name": "heart.svg"
+ },
+ {
+  "concept": "sparkle",
+  "code": "X-ICN-22140",
+  "name": "sparkle.svg"
+ },
+ {
+  "concept": "butterfly",
+  "code": "X-ICN-4662",
+  "name": "butterfly.svg"
+ },
+ {
+  "concept": "moon",
+  "code": "X-ICN-16636",
+  "name": "moon.svg"
+ },
+ {
+  "concept": "sun",
+  "code": "X-ICN-23419",
+  "name": "sun.svg"
+ }
+]
